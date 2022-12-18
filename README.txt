@@ -1,1 +1,0 @@
-this is a program to find the missing and duplicate roll numbers
